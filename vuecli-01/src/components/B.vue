@@ -1,0 +1,6 @@
+<template>
+    <div>
+       BBBBBB
+         <router-link to="/">返回</router-link>
+    </div>
+</template>
